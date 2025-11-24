@@ -23,7 +23,7 @@
 |         |                                 | Composing n functions           |
 |         |                                 | Use of functools                |
 |   6     | **Python Recursion**            | Factorial of a Number           |
-|   7     | **Ananymous Lambda Functions**  | Programs using filter() and map() |
+|   7     | **Anonymous Lambda Functions**  | Programs using filter() and map() |
 |   8     | **Function With More Than One Return Value** | Program to calculate add, sub, mul, div |
 
 
