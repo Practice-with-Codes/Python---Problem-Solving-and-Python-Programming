@@ -5,7 +5,7 @@
 
  <div align="center">
 
-| Sl. No. |   Content    | Code                          |
+| Sl. No. |   Content    | Code Snippet                         |
 |:-----:|:------------:|-------------------------------|
 |   5   | **Composition**  | Example: Syntax of Composition |
 |       |              | Composing n functions          |
