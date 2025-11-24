@@ -5,9 +5,9 @@
 
  <div align="center">
 
-| Index |   Content    | Code                          |
+| Sl. No. |   Content    | Code                          |
 |:-----:|:------------:|-------------------------------|
-|   5   | Composition  | Example: Syntax of Composition |
+|   5   | **Composition**  | Example: Syntax of Composition |
 |       |              | Composing n functions          |
 |       |              | Use of functools               |
 
