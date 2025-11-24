@@ -22,6 +22,7 @@
 |   4     | **Composition**                 | Example: Syntax of Composition  |
 |         |                                 | Composing n functions           |
 |         |                                 | Use of functools                |
+|   5     | **Python Recursion**            | Factorial of a Number           |
 
 
 </div>
