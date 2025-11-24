@@ -24,7 +24,7 @@
 |         |                                 | Use of functools                |
 |   6     | **Python Recursion**            | Factorial of a Number           |
 |   7     | **Ananymous Lambda Functions**  | Programs using filter() and map() |
-|   8     | **Function Return More Than One Value** | Calulate +, _, *, / |
+|   8     | **Function Return More Than One Value** | Program to Calculate add, sub, mul, div |
 
 
 </div>
