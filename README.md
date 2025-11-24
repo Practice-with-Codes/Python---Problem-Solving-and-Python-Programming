@@ -11,18 +11,20 @@
 |         | **Function Call**               | Docstring                       |
 |         |                                 | return statement                |
 |         |                                 | Pass by Reference Vs Pass by Value |
-|         | **Scope and Lifetime of Variables** | Program 1                    |
-|   2     | **Types of Functions**          | Built-in Functions              |
+|   2     | **Scope and Lifetime of Variables** | Program 1                    |
+|   3     | **Types of Functions**          | Built-in Functions              |
 |         |                                 | User-defined Functions          |
-|   3     | **Python Function Arguments**   | Variable Function Arguments     |
+|   4     | **Python Function Arguments**   | Variable Function Arguments     |
 |         |                                 | Python Default Arguments        |
 |         |                                 | Python Keyword Arguments        |
 |         |                                 | Required Arguments              |
 |         |                                 | Python Variable Length Arguments|
-|   4     | **Composition**                 | Example: Syntax of Composition  |
+|   5     | **Composition**                 | Example: Syntax of Composition  |
 |         |                                 | Composing n functions           |
 |         |                                 | Use of functools                |
-|   5     | **Python Recursion**            | Factorial of a Number           |
+|   6     | **Python Recursion**            | Factorial of a Number           |
+|   7     | **Ananymous Lambda Functions**  | Programs using filter() and map() |
+|   8     | **Function Return More Than One Value** | Calulate +, _, *, / |
 
 
 </div>
