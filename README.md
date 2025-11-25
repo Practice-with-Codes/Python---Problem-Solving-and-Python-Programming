@@ -28,3 +28,23 @@
 
 
 </div>
+
+<br>
+
+### ✅ Chapter 4: Additional Programs
+
+<br>
+
+ <div align="center">
+
+| Sl. No. | Code Snippet                         | 
+|:-------:|---------------------------------|
+|   1     | **Calculate the Sum and Average of Two Numbers** | 
+|   2     | **Calculate the Sum of an Array of Numbers**  |
+|   3     | **Search an Element in an Array using Binary Search Technique**  |
+|   3     | **Search an Element in an Array using Linear Search Technique**  |
+
+
+</div>
+
+<br>
