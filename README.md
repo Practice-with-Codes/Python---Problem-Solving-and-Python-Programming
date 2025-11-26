@@ -42,7 +42,8 @@
 |   1     | **Calculate the Sum and Average of Two Numbers** | 
 |   2     | **Calculate the Sum of an Array of Numbers**  |
 |   3     | **Search an Element in an Array using Binary Search Technique**  |
-|   3     | **Search an Element in an Array using Linear Search Technique**  |
+|   4     | **Search an Element in an Array using Linear Search Technique**  |
+|   5     | **Calculate the HCF of a Given Number**  |
 
 
 </div>
