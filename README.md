@@ -44,6 +44,10 @@
 |   3     | **Search an Element in an Array using Binary Search Technique**  |
 |   4     | **Search an Element in an Array using Linear Search Technique**  |
 |   5     | **Calculate the HCF of a Given Number**  |
+|   6     | **Find the Least Common Multiple of a Number**  |
+|   7     | **Design an Arithmetic Calculator**  |
+|   8     | **Function to Find the Maximum of Three Numbers**  |
+|   9     | **Functions to Find the Prime Number**  |
 
 
 </div>
