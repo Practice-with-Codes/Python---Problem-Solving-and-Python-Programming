@@ -54,7 +54,7 @@
 |   13     | **Function to Check Odd or Even Number**  |
 |   14     | **Recursive Function to Find the Sum of n Natural Numbers**  |
 |   15     | **Recursive Function to Find the Factors of a Given Number**  |
-|   16     | **Generate New String From an Existing String by adding "Is" in the Front, Without Modifying it**  |
+|   16     | **Generate New String From an Existing String by adding "Is" in the Front, Without Modifying IT**  |
 |   17     | **Compare and Return Two Different List and Return True If They Contain One Common Value**  |
 
 
