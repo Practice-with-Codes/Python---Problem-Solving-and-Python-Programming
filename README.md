@@ -48,6 +48,12 @@
 |   7     | **Design an Arithmetic Calculator**  |
 |   8     | **Function to Find the Maximum of Three Numbers**  |
 |   9     | **Functions to Find the Prime Number**  |
+|   10     | **Functions to Find the Armstrong Numbers**  |
+|   11     | **Functions to Calculate Factorial of a Number**  |
+|   12     | **Function to Check Given Number is Positive, Negative or Zero**  |
+|   13     | **Function to Check Odd or Even Number**  |
+|   14     | **Recursive Function to Find the Sum of n Natural Numbers**  |
+|   15     | **Recursive Function to Find the Factors of a Given Number**  |
 
 
 </div>
