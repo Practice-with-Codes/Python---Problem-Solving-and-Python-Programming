@@ -39,23 +39,23 @@
 
 | Sl. No. | Code Snippet                         | Code No. |
 |:-------:|---------------------------------| :-------:|
-|   1     | **Calculate the Sum and Average of Two Numbers** | AD_1 |
-|   2     | **Calculate the Sum of an Array of Numbers**  |AD_2 |
-|   3     | **Search an Element in an Array using Binary Search Technique**  |AD_3 |
-|   4     | **Search an Element in an Array using Linear Search Technique**  |AD_4 |
-|   5     | **Calculate the HCF of a Given Number**  |AD_5 |
-|   6     | **Find the Least Common Multiple of a Number**  |AD_6 |
-|   7     | **Design an Arithmetic Calculator**  |AD_7 |
-|   8     | **Function to Find the Maximum of Three Numbers**  |AD_8 |
-|   9     | **Functions to Find the Prime Number**  |AD_9 |
-|   10     | **Functions to Find the Armstrong Numbers**  |AD_10 |
-|   11     | **Functions to Calculate Factorial of a Number**  |AD_11 |
-|   12     | **Function to Check Given Number is Positive, Negative or Zero**  |AD_12 |
-|   13     | **Function to Check Odd or Even Number**  |AD_13 |
-|   14     | **Recursive Function to Find the Sum of n Natural Numbers**  |AD_14 |
-|   15     | **Recursive Function to Find the Factors of a Given Number**  |AD_15 |
-|   16     | **Generate New String From an Existing String by adding "Is" in the Front, Without Modifying it**  |AD_16 |
-|   17     | **Compare and Return Two Different List and Return True If They Contain One Common Value**  |AD_17 |
+|   1     | **Calculate the Sum and Average of Two Numbers** | **AD_1** |
+|   2     | **Calculate the Sum of an Array of Numbers**  |**AD_2** |
+|   3     | **Search an Element in an Array using Binary Search Technique**  |**AD_3** |
+|   4     | **Search an Element in an Array using Linear Search Technique**  |**AD_4** |
+|   5     | **Calculate the HCF of a Given Number**  |**AD_5** |
+|   6     | **Find the Least Common Multiple of a Number**  |**AD_6** |
+|   7     | **Design an Arithmetic Calculator**  |**AD_7** |
+|   8     | **Function to Find the Maximum of Three Numbers**  |**AD_8** |
+|   9     | **Functions to Find the Prime Number**  |**AD_9** |
+|   10     | **Functions to Find the Armstrong Numbers**  |**AD_10** |
+|   11     | **Functions to Calculate Factorial of a Number**  |**AD_11** |
+|   12     | **Function to Check Given Number is Positive, Negative or Zero**  |**AD_12** |
+|   13     | **Function to Check Odd or Even Number**  |**AD_13** |
+|   14     | **Recursive Function to Find the Sum of n Natural Numbers**  |**AD_14** |
+|   15     | **Recursive Function to Find the Factors of a Given Number**  |**AD_15** |
+|   16     | **Generate New String From an Existing String by adding "Is" in the Front, Without Modifying it**  |**AD_16** |
+|   17     | **Compare and Return Two Different List and Return True If They Contain One Common Value**  |**AD_17** |
 
 
 </div>
