@@ -3,11 +3,6 @@
 
 ### ✅ Chapter 4: Functions
 
-### **Chapter 4 – Additional Programs (Overview)**
-
-<p align = "justify"> This chapter contains a collection of basic yet essential programming exercises designed to enhance logical thinking and problem-solving skills. It includes programs related to arithmetic operations, number theory, recursion, lists, and strings, helping students practice fundamental concepts. From simple tasks like finding the sum of numbers to more logical challenges like detecting prime, Armstrong numbers, and comparing lists, the chapter provides practical exposure to commonly used algorithms. Overall, it strengthens core programming knowledge and builds a foundation for writing optimized and structured code. </p>
-
-
  <div align="center">
 
 | Sl. No. | Content                         | Code Snippet                    | 
@@ -40,6 +35,9 @@
 
 <br>
 
+### **Chapter 4 – Additional Programs (Overview)**
+
+<p align = "justify"> This chapter contains a collection of basic yet essential programming exercises designed to enhance logical thinking and problem-solving skills. It includes programs related to arithmetic operations, number theory, recursion, lists, and strings, helping students practice fundamental concepts. From simple tasks like finding the sum of numbers to more logical challenges like detecting prime, Armstrong numbers, and comparing lists, the chapter provides practical exposure to commonly used algorithms. Overall, it strengthens core programming knowledge and builds a foundation for writing optimized and structured code. </p>
  <div align="center">
 
 | Sl. No. | Code Snippet                         | Code No. |
