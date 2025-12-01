@@ -48,14 +48,14 @@
 |   7     | **Design an Arithmetic Calculator**  |**AD_7** |
 |   8     | **Function to Find the Maximum of Three Numbers**  |**AD_8** |
 |   9     | **Functions to Find the Prime Number**  |**AD_9** |
-|   10     | **Functions to Find the Armstrong Numbers**  |**AD_10** |
-|   11     | **Functions to Calculate Factorial of a Number**  |**AD_11** |
-|   12     | **Function to Check Given Number is Positive, Negative or Zero**  |**AD_12** |
-|   13     | **Function to Check Odd or Even Number**  |**AD_13** |
-|   14     | **Recursive Function to Find the Sum of n Natural Numbers**  |**AD_14** |
-|   15     | **Recursive Function to Find the Factors of a Given Number**  |**AD_15** |
-|   16     | **Generate New String From an Existing String by adding "Is" in the Front, Without Modifying it**  |**AD_16** |
-|   17     | **Compare and Return Two Different List and Return True If They Contain One Common Value**  |**AD_17** |
+|   10     | **Functions to Find the Armstrong Numbers**  |**AD__10** |
+|   11     | **Functions to Calculate Factorial of a Number**  |**AD__11** |
+|   12     | **Function to Check Given Number is Positive, Negative or Zero**  |**AD__12** |
+|   13     | **Function to Check Odd or Even Number**  |**AD__13** |
+|   14     | **Recursive Function to Find the Sum of n Natural Numbers**  |**AD__14** |
+|   15     | **Recursive Function to Find the Factors of a Given Number**  |**AD__15** |
+|   16     | **Generate New String From an Existing String by adding "Is" in the Front, Without Modifying it**  |**AD__16** |
+|   17     | **Compare and Return Two Different List and Return True If They Contain One Common Value**  |**AD__17** |
 
 
 </div>
